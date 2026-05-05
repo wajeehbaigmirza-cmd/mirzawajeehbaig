@@ -49,14 +49,10 @@ strategic decision making.
 ---
 
 ## 📂 Featured Projects
-
+ 
 | Project | Description | Tools |
 |--------|-------------|-------|
-| [📊 Sales Performance Dashboard](./projects/sales-dashboard) | Interactive dashboard tracking KPIs across regions & time | Power BI, SQL |
-| [🛒 E-Commerce Customer Segmentation](./projects/customer-segmentation) | RFM analysis + K-Means clustering to identify customer groups | Python, Scikit-learn |
-| [🏥 Healthcare Data Analysis](./projects/healthcare-analysis) | EDA on patient records to identify risk patterns | Python, Pandas, Seaborn |
-| [💰 Financial Trend Forecasting](./projects/financial-forecasting) | Time-series forecasting of revenue using ARIMA | Python, Statsmodels |
-| [🌆 City Census EDA](./projects/census-eda) | Deep exploratory analysis of urban population data | SQL, Python, Matplotlib |
+| [🏥 Healthcare Billing & Operations Dashboard](https://github.com/mirzawajeehbaig/healthcare-billing-dashboard) | End-to-end billing analytics — ELT pipeline via Airbyte, visualized on Apache Superset | Airbyte, SQL Server, Apache Superset |
 
 ---
 
