@@ -52,7 +52,7 @@ strategic decision making.
  
 | Project | Description | Tools |
 |--------|-------------|-------|
-| [🏥 Healthcare Billing & Operations Dashboard](https://github.com/mirzawajeehbaig/healthcareclient) | End-to-end billing analytics — ELT pipeline via Airbyte, visualized on Apache Superset | Airbyte, SQL Server, Apache Superset |
+| [🏥 Healthcare Billing & Operations Dashboard](https://github.com/wajeehbaigmirza-cmd/healthcareclient) | End-to-end billing analytics — ELT pipeline via Airbyte, visualized on Apache Superset | Airbyte, SQL Server, Apache Superset |
 
 ---
 
