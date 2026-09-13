@@ -9,7 +9,8 @@ Motivated and detail oriented data professional having 4+ years of experience wi
 Computing. Skilled in automating processes, building dashboards, and turning data into actionable insights to drive performance and 
 strategic decision making.
 
-- 📍 Karachi, Pakistan  
+- 📍 Karachi, Pakistan
+- 👨‍🎓 BE Computer System Engineering, MS Data Science
 - 💼 Open to Remote & Onsite full-time opportunities  
 - 🌱 Currently exploring **Data & Analytics Engineering**  
 - 📫 Reach me at: **wajeehbaigmirza@gmail.com**
