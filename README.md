@@ -3,7 +3,7 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 
 Motivated and detail oriented data professional having 4+ years of experience with expertise in Data Analysis, Operations, and 
 Computing. Skilled in automating processes, building dashboards, and turning data into actionable insights to drive performance and 
@@ -52,7 +52,7 @@ strategic decision making.
  
 | Project | Description | Tools |
 |--------|-------------|-------|
-| [🏥 Healthcare Billing & Operations Dashboard](https://github.com/wajeehbaigmirza-cmd/healthcareclient) | End-to-end billing analytics — ELT pipeline via Airbyte, visualized on Apache Superset | Airbyte, SQL Server, Apache Superset, Clickhouse, G-Sheets |
+| [🏥 Healthcare Billing & Operations Dashboard](https://github.com/wajeehbaigmirza-cmd/healthcareclient) | End-to-end billing analytics, ELT pipeline via Airbyte, visualized on Apache Superset | Airbyte, SQL Server, Apache Superset, Clickhouse, G-Sheets |
 | [# 📞 QA Sales Dashboard](https://github.com/wajeehbaigmirza-cmd/salescallsqa) | Call quality analytics tracking 7 KPIs evaluated sales calls | Google Forms, Google Sheets |
 
 ---
@@ -65,10 +65,12 @@ strategic decision making.
 
 ## 📜 Certifications
 
-- 🏅 Datawarehousing Concepts — Datacamp  
-- 🏅 Introduction to PySpark — Datacamp  
-- 🏅 Data Analyst’s Toolbox Excel to MySql — Udemy
-- 🏅 Big Data Analytic Technique — Ned University  
+- 🏅 Associate Data Engineering in SQL, Datacamp 
+- 🏅 Big Data Analytic Technique, Ned University
+- 🏅 Data Analyst’s Toolbox Excel to MySql, Udemy
+- 🏅 Datawarehousing Concepts, Datacamp  
+- 🏅 Introduction to PySpark, Datacamp
+- 🏅 Big Data Fundamentals with PySpark, Datacamp  
 
 ---
 
