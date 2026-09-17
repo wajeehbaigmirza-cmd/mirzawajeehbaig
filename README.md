@@ -56,6 +56,9 @@ strategic decision making.
 | [🏥 Healthcare Billing & Operations Dashboard](https://github.com/wajeehbaigmirza-cmd/healthcareclient) | End-to-end billing analytics, ELT pipeline via Airbyte, visualized on Apache Superset | Airbyte, SQL Server, Apache Superset, Clickhouse, G-Sheets |
 | [# 📞 QA Sales Dashboard](https://github.com/wajeehbaigmirza-cmd/salescallsqa) | Call quality analytics tracking 7 KPIs evaluated sales calls | Google Forms, Google Sheets |
 
+
+| [# 👥 HR Analytics Dashboard](https://github.com/wajeehbaigmirza-cmd/hranalytics) | Holistic report which enables workforce planning, compensation strategy, and employee retention. | MS Excel, Power BI |
+
 ---
 
 ## 🖥️ Other Dashboards
